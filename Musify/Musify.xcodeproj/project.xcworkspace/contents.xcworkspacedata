@@ -2,15 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/benhuynh/Desktop/Musify/Musify/Model">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/benhuynh/Desktop/Musify/Musify/Project Utilities">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/benhuynh/Desktop/Musify/Musify/Views">
-   </FileRef>
-   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
