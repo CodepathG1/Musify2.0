@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		337562CB25EC91010035D585 /* AuthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337562CA25EC91010035D585 /* AuthView.swift */; };
 		337562D325ECA02A0035D585 /* MusifyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337562D225ECA02A0035D585 /* MusifyApp.swift */; };
+		337562D725ED74340035D585 /* MoodView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337562D625ED74340035D585 /* MoodView.swift */; };
 		3C2EE22125E5E71A007279D7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2EE22025E5E71A007279D7 /* ContentView.swift */; };
 		3C2EE22325E5E71E007279D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C2EE22225E5E71E007279D7 /* Assets.xcassets */; };
 		3C2EE22625E5E71E007279D7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C2EE22525E5E71E007279D7 /* Preview Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* Begin PBXFileReference section */
 		337562CA25EC91010035D585 /* AuthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthView.swift; sourceTree = "<group>"; };
 		337562D225ECA02A0035D585 /* MusifyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusifyApp.swift; sourceTree = "<group>"; };
+		337562D625ED74340035D585 /* MoodView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoodView.swift; sourceTree = "<group>"; };
 		3C2EE21B25E5E71A007279D7 /* Musify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Musify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C2EE22025E5E71A007279D7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3C2EE22225E5E71E007279D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				3C2EE22425E5E71E007279D7 /* Preview Content */,
 				337562CA25EC91010035D585 /* AuthView.swift */,
 				337562D225ECA02A0035D585 /* MusifyApp.swift */,
+				337562D625ED74340035D585 /* MoodView.swift */,
 			);
 			path = Musify;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 				337562D325ECA02A0035D585 /* MusifyApp.swift in Sources */,
 				3C2EE25225E5EA6C007279D7 /* SavedAlbumsGridView.swift in Sources */,
 				3C2EE25325E5EA6C007279D7 /* AlbumTrackCellView.swift in Sources */,
+				337562D725ED74340035D585 /* MoodView.swift in Sources */,
 				3C2EE25125E5EA6C007279D7 /* AlbumGridItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
