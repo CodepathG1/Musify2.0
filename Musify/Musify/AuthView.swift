@@ -8,6 +8,11 @@
 import SwiftUI
 import SpotifyWebAPI
 
+// TODO: figure out why isAuthorized isn't updating
+// TODO: clean up view code in here
+// TODO: make moodview
+
+
 struct AuthView: View {
     
     @EnvironmentObject var spotify: Spotify
