@@ -2,11 +2,10 @@
 //  MusifyApp.swift
 //  Musify
 //
-//  Created by Ben Huynh on 2/23/21.
+//  Created by Zach Dorame-Barajas on 2/28/21.
 //
 
 import SwiftUI
-import Combine
 import SpotifyWebAPI
 
 @main
@@ -15,8 +14,9 @@ struct MusifyApp: App {
 
     var body: some Scene {
         WindowGroup {
-            RootView()
+            AuthView()
                 .environmentObject(spotify)
         }
     }
 }
+
