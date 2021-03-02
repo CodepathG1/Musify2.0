@@ -33,6 +33,8 @@ Recommends songs based on moods, tastes or just random. Also, shows newly releas
 * [x] create playlist feature
 * Add song to playlist
 
+## Build Progress (Sprint 2)
+![Alt text](http://g.recordit.co/NRBiThUwdW.gif)
 
 **Optional Nice-to-have Stories**
 
