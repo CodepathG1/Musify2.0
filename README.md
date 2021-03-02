@@ -28,9 +28,9 @@ Recommends songs based on moods, tastes or just random. Also, shows newly releas
 
 **Required Must-have Stories**
 
-* User logs in to their spotify account
+* [x] User logs in to their spotify account
 * User picks current mood, current genre they're looking for, random generator(can be random song, artist, genre, etc), or to check out newly released music
-* create playlist feature
+* [x] create playlist feature
 * Add song to playlist
 
 
@@ -39,11 +39,10 @@ Recommends songs based on moods, tastes or just random. Also, shows newly releas
 * Like feature on songs
 * Calendar to mark moods and songs encountered for each day the app was used
 * Share status
-* AI/ML: use face detection to detect mood
 
 ### 2. Screen Archetypes
 
-* Login
+* [x] Login
    * takes you to spotify sign in
 * Selection Screen
    * Choose Mood, Genre, Random
